@@ -11,10 +11,6 @@ button.begin();
 // Parameter 1 = NAME OF API ENDPOINT
 // Parameter 2 = FUNCTION YOU WANT TO RUN WHEN
 
-Particle.function("simly1", smile1);
-Particle.function("simly2", smile2);
-
-Particle.function("simly3", smile3);
 Particle.function("turnlightsoff", smile4);
 
 
